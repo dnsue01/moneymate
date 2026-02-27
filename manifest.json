@@ -1,0 +1,21 @@
+{
+    "name": "MoneyMates",
+    "short_name": "MoneyMates",
+    "description": "Divide gastos con amigos, de forma elegante.",
+    "start_url": "/app",
+    "display": "standalone",
+    "background_color": "#F9F6F0",
+    "theme_color": "#1C1C1E",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
